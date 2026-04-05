@@ -1,0 +1,3 @@
+*.js linguist-language=Three.js
+*.css linguist-language=Three.js
+*.html linguist-language=Three.js
